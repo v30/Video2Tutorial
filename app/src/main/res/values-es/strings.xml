@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Video2Tutorial</string>
+
+    <string name="hello_world">Hola mundo!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="user_name_edit_text">Su nombre</string>
+    <string name="happy_question">Eres feliz?</string>
+    <string name="yes_button">Sí</string>
+    <string name="no_button">No</string>
+    <string name="pickme">Llevarnos!</string>
+    <string name="nopickme">No Pick Me!</string>
+</resources>
